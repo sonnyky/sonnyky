@@ -37,6 +37,11 @@ I work mostly on ![windows](https://img.shields.io/badge/Windows-0078D6?style=fo
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sonnyky.sonnyky" alt="visitors">
 </div>
 
+### 🔗 Links
+[![Website](https://img.shields.io/badge/Website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ancient-harbor-5436.herokuapp.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-76B900?style=for-the-badge&logo=portfolio&logoColor=white)](https://ancient-harbor-5436.herokuapp.com/work)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sonny-kurniawan/)
+
 ### Credits
 This page was generated with the help of the following sites
 * https://dev.to/envoy_/150-badges-for-github-pnk
