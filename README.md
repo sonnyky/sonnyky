@@ -38,7 +38,7 @@ I work mostly on ![windows](https://img.shields.io/badge/Windows-0078D6?style=fo
 </div>
 
 ### 🔗 Links
-[![Website](https://img.shields.io/badge/Website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://6336f56edb3bc804fba0212d--fluffy-paprenjak-d68b20.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://fluffy-paprenjak-d68b20.netlify.app/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sonny-kurniawan/)
 
 ### Credits
