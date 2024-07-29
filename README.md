@@ -1,7 +1,7 @@
 # Welcome! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/source.gif" width="50px">
 
 ## 💻 About me
-I'm a tinkerer who loves to try new technologies and applies them to real life problems. My background is in Robotics and Computer Vision but I also enjoy game development and interactive installation technologies such as projection mapping. I enjoy writing, and so I decided to start [**blogging**](http://www.dailytinkerer.com/). I dont consider myself a programmer or software engineer because I lack the discipline to rigorously write beautiful code, but I see myself more of a prototyper or technology enthusiast.
+I'm a tinkerer who loves to try new technologies and applies them to real life problems. My background is in Robotics and Computer Vision but I also enjoy game development and interactive installation technologies such as projection mapping. I enjoy writing, and so I decided to start [**blogging**](https://dailytinkerer.blogspot.com/). I dont consider myself a programmer or software engineer because I lack the discipline to rigorously write beautiful code, but I see myself more of a prototyper or technology enthusiast.
 
 🎾 Other than technology, I enjoy tennis, swimming and badminton. Nothing refreshes me more than a good workout after long hours of coding.
 
